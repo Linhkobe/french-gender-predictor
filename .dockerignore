@@ -1,0 +1,11 @@
+french_demographic_prediction/
+
+venv/
+.venv/
+__pycache__/
+.git/
+.ipynb_checkpoints/
+*.ipynb
+*.csv
+*.zip
+!trend_data.csv
